@@ -1,4 +1,4 @@
-# carpetjs-nested-set-service
+# carpetjs-multitenancy
 
 CarpetJS injector to provide tenant protection
 
