@@ -1,7 +1,7 @@
 {
   "name": "carpetjs-multitenancy",
   "description": "CarpetJS injector to provide tenant protection",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "author": "Ruben Stolk <ruben.stolk@safetychanger.com>",
   "contributors": [],
   "license": "MIT",
