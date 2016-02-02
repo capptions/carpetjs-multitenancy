@@ -1,7 +1,7 @@
 {
   "name": "carpetjs-multitenancy",
   "description": "CarpetJS injector to provide tenant protection",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "author": {
     "name": "Ruben Stolk",
     "email": "ruben.stolk@safetychanger.com"
@@ -30,12 +30,7 @@
   ],
   "readme": "# carpetjs-multitenancy\n\nCarpetJS injector to provide tenant protection\n\n## Usage\n\nAdd the following in your carpetjs local `config/index.js`\n\n```\nvar $ = require('carpetjs');\nrequire('carpetjs-multitenancy')($);\n```\n",
   "readmeFilename": "README.md",
-  "gitHead": "73abb4b61583919ba68c77f0ac72fcc1a84df171",
   "bugs": {
     "url": "https://github.com/carpetjs/carpetjs-multitenancy/issues"
-  },
-  "_id": "carpetjs-multitenancy@1.1.4",
-  "scripts": {},
-  "_shasum": "831970a2d478b1ef1240c083f4eb15b951741b53",
-  "_from": "carpetjs-multitenancy@1.1.4"
+  }
 }
