@@ -1,18 +1,18 @@
 {
-  "name": "carpetjs-multitenancy",
+  "name": "@capptions/carpetjs-multitenancy",
   "description": "CarpetJS injector to provide tenant protection",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "author": {
     "name": "Ruben Stolk",
-    "email": "ruben.stolk@safetychanger.com"
+    "email": "ruben.stolk@capptions.com"
   },
   "contributors": [],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/carpetjs/carpetjs-multitenancy"
+    "url": "https://github.com/capptions/carpetjs-multitenancy"
   },
-  "homepage": "http://carpetjs.github.io/",
+  "homepage": "https://capptions.com",
   "keywords": [
     "express",
     "mongoose",
